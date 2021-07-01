@@ -1,5 +1,5 @@
 # Hallo ✊
-<p align="center" width="100%"><img src="anti_mini.gif" /></p>
+<p align="center" width="100%"><img width="33%"src="anti.gif" /></p>
 
 ## Little about myself 🧙🏻
 Hi, I'm fredrare, but you may know me as Antitesista as well. I have a strong background in algorithms, programming, networking and information security.
