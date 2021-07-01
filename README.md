@@ -1,4 +1,5 @@
 # Hallo ✊
+![Antitesista's avatar](anti_mini.png)
 ## Little about myself 🧙🏻
 Hi, I'm fredrare, but you may know me as Antitesista as well. I have a strong background in algorithms, programming, networking and information security.
 
