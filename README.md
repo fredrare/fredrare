@@ -24,6 +24,7 @@ This is the list of things I believe I know in a pretty deep level (not marked t
 - [x] Process automation
 - [x] React, tailwind and that sort of stuff
 - [x] Mirai botnet
+- [ ] C++
 - [ ] Database administration
 - [ ] BSD administration
 - [ ] Microservices
