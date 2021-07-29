@@ -25,6 +25,7 @@ This is the list of things I believe I know in a pretty deep level (not marked t
 - [x] Wifi auditing, configuration and 2FA in enterprise networks
 - [x] Network administration (for both SDN and traditional networks)
 - [ ] C++
+- [ ] Regex
 - [ ] GraphQL
 - [ ] Microservices
 - [ ] BSD administration
