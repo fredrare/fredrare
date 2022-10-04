@@ -29,4 +29,9 @@ This is the list of things I believe I know quite well (with a pretty big of roo
 - [ ] More differential equations
 - [ ] Japanese (currently studing for N3)
 
+## My links 🔗
+- [Personal page](https://fredrare.com)
+- [Codewars](https://www.codewars.com/users/fredrare)
+- [Codingame](https://www.codingame.com/profile/5de7afa953f69462f305ec1e809358a98171624)
+
 Oh, and I use Arch, btw
