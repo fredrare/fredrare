@@ -34,4 +34,7 @@ This is the list of things I believe I know quite well (with a pretty big of roo
 - [Codewars](https://www.codewars.com/users/fredrare)
 - [Codingame](https://www.codingame.com/profile/5de7afa953f69462f305ec1e809358a98171624)
 
+## General 🍚
+![Fredrare's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredrare&theme=tokyonight&custom_title=My%20stats&count_private=true&include_all_commits=true&show_icons=true)
+
 Oh, and I use Arch, btw
