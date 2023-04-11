@@ -4,37 +4,29 @@
 ## Little about myself 🧙🏻
 Hi, I'm fredrare, but you may know me as Antitesista as well. I am a curious person with thirst for knowledge and challenges.
 
-## A bit of what I know regarding IT 📚
-This is the list of things I believe I know quite well (with a pretty big of room for improvement):
-- [x] Software deveopment and architecture
-- [x] Pentesting
-- [x] Unix-like systems
-- [x] Blockchain development
-- [x] Regex (I had to mention it)
-
-## A bit of what I am still learning regarding IT 📓
-- [ ] Haskell
-- [ ] Assembly
-- [ ] Privilege escalation
-- [ ] Formal languages theory
-
-## A bit of what I want to learn regarding IT ✔︎
-- [ ] Lisp
-- [ ] Cobol
-- [ ] Integrated circuits and hardware hacking
-
-## A bit of what I am still learning in general ㊫
-- [ ] Linear Algebra
-- [ ] Differential equations
-- [ ] More differential equations
-- [ ] Japanese (currently studing for N3)
+## Skills, I guess
+- [X] Information security
+- [X] Fullstack development
+- [X] Ethereum development
+- [X] Sysadmin
+- [ ] Graphics programming
+- [ ] Blender
 
 ## My links 🔗
 - [Personal page](https://fredrare.com)
 - [Codewars](https://www.codewars.com/users/fredrare)
 - [Codingame](https://www.codingame.com/profile/5de7afa953f69462f305ec1e809358a98171624)
+- [Discord server](https://discord.gg/tJa66GNhej)
 
-## General 🍚
-![Fredrare's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredrare&theme=tokyonight&custom_title=My%20stats&count_private=true&include_all_commits=true&show_icons=true)
+## Badges 🍚
+### Codewars profile
+<img src="https://www.codewars.com/users/fredrare/badges/large" alt="Fredrare's Codewars profile" width="400px" />
 
-Oh, and I use Arch, btw
+### Github stats
+<img src="https://github-readme-stats.vercel.app/api?username=fredrare&theme=tokyonight&custom_title=My%20stats&count_private=true&include_all_commits=true&show_icons=true" alt="Fredrare's GitHub stats" width="400px" />
+
+### Wakatime lang stats
+<img src="https://wakatime.com/share/@Fredrare/f49284e8-9cf1-4f1a-a419-7e0aaa02d1b8.svg" alt="Fredrare's lang stats" width="400px" />
+
+
+I use Arch, btw
