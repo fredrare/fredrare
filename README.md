@@ -25,8 +25,4 @@ Hi, I'm fredrare, but you may know me as Antitesista as well. I am a curious per
 ### Github stats
 <img src="https://github-readme-stats.vercel.app/api?username=fredrare&theme=tokyonight&custom_title=My%20stats&count_private=true&include_all_commits=true&show_icons=true" alt="Fredrare's GitHub stats" width="400px" />
 
-### Wakatime lang stats
-<img src="https://wakatime.com/share/@Fredrare/f49284e8-9cf1-4f1a-a419-7e0aaa02d1b8.svg" alt="Fredrare's lang stats" width="400px" />
-
-
 I use Arch, btw
