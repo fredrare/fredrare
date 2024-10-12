@@ -1,28 +1,20 @@
-# Hallo ✊
+# Hi
 <p align="center" width="100%"><img width="33%"src="anti.gif" /></p>
 
 ## Little about myself 🧙🏻
-Hi, I'm fredrare, but you may know me as Antitesista as well. I am a curious person with thirst for knowledge and challenges.
+Hi, I am a curious person with thirst for knowledge, challenges and absurd solutions to imaginary problems. I enjoy collaborating with teams and hat my works serves a purpose.
 
 ## Skills, I guess
-- [X] Information security
 - [X] Fullstack development
+- [X] Information security
 - [X] Ethereum development
 - [X] Sysadmin
-- [ ] Graphics programming
-- [ ] Blender
 
 ## My links 🔗
 - [Personal page](https://fredrare.com)
 - [Codewars](https://www.codewars.com/users/fredrare)
 - [Codingame](https://www.codingame.com/profile/5de7afa953f69462f305ec1e809358a98171624)
-- [Discord server](https://discord.gg/tJa66GNhej)
 
-## Badges 🍚
-### Codewars profile
+## Codewars profile
 <img src="https://www.codewars.com/users/fredrare/badges/large" alt="Fredrare's Codewars profile" width="400px" />
-
-### Github stats
-<img src="https://github-readme-stats.vercel.app/api?username=fredrare&theme=tokyonight&custom_title=My%20stats&count_private=true&include_all_commits=true&show_icons=true" alt="Fredrare's GitHub stats" width="400px" />
-
 I use Arch, btw
