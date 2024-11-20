@@ -6,8 +6,9 @@ Hi, I am a curious person with thirst for knowledge, challenges and absurd solut
 
 ## Skills, I guess
 - [X] Information security
-- [X] Fullstack development
-- [X] Ethereum development
+- [X] System design
+- [X] Fullstack programming
+- [X] Blockchain development
 - [X] Sysadmin
 
 ## My links 🔗
