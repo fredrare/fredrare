@@ -2,16 +2,16 @@
 <p align="center" width="100%"><img width="33%"src="anti.gif" /></p>
 
 ## Little about myself 🧙🏻
-Hi, I am a curious person with thirst for knowledge, challenges and absurd solutions to imaginary problems. I enjoy collaborating with teams and hat my works serves a purpose.
+Hi, I am a curious person with thirst for knowledge, challenges and absurd solutions to imaginary problems. I enjoy collaborating with teams and working with purpose.
 
 ## Skills, I guess
-- [X] Fullstack development
 - [X] Information security
+- [X] Fullstack development
 - [X] Ethereum development
 - [X] Sysadmin
 
 ## My links 🔗
-- [Personal page](https://fredrare.com)
+- [Web page](https://fredrare.com)
 - [Codewars](https://www.codewars.com/users/fredrare)
 - [Codingame](https://www.codingame.com/profile/5de7afa953f69462f305ec1e809358a98171624)
 
