@@ -1,6 +1,3 @@
-# Hi
-<p align="center" width="100%"><img width="33%"src="anti.gif" /></p>
-
 ## Little about myself 🧙🏻
 Hi, I am a curious person with thirst for knowledge, challenges and absurd solutions to imaginary problems. I enjoy collaborating with teams and working with purpose.
 
